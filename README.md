@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Deploly: https://6346e95f8582332ff4328065--jade-mousse-1865f5.netlify.app/
+Deploy: https://6346e95f8582332ff4328065--jade-mousse-1865f5.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
